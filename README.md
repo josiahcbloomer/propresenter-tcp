@@ -3,7 +3,7 @@ An extremely simple wrapper for the ProPresenter TCP API.
 For documentation, visit [https://openapi.propresenter.com/](https://openapi.propresenter.com/)
 ### Example
 ```js
-import ProPresenter from "./propresenter.js"
+import ProPresenter from "propresenter-tcp"
 
 const pro = new ProPresenter()
 
