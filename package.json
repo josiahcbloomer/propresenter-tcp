@@ -1,0 +1,19 @@
+{
+	"type": "module",
+	"name": "propresenter-tcp",
+	"version": "1.0.0",
+	"main": "propresenter.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {
+		"test": "node test.js"
+	},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/josiahcbloomer/propresenter-tcp"
+    },
+	"keywords": [],
+	"author": "Josiah Bloomer (https://github.com/josiahcbloomer)",
+	"license": "ISC",
+	"description": "An extremely simple wrapper for the ProPresenter TCP API"
+}
