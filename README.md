@@ -1,5 +1,5 @@
 # ProPresenter-TCP
-An extremely simple wrapper for the ProPresenter TCP API.
+An extremely simple interface for the ProPresenter TCP API.
 For documentation, visit [https://openapi.propresenter.com/](https://openapi.propresenter.com/)
 ### Example
 ```js
